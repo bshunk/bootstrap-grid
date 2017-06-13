@@ -1,4 +1,14 @@
 .myClass {
 	background-color: gray;
-	border: 1px;
+	border: 1px solid black;
+}
+
+.nested {
+	background-color: darkgreen;
+	color: white;
+	border: 1px solid black;
+}
+
+.row3 {
+
 }
